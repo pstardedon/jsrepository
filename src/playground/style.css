@@ -1,0 +1,28 @@
+.container{
+    margin-top: 20px;
+    margin-left: 15px;
+    display: flex;
+}
+.container-content{
+    flex-direction: column;
+    margin-left: 10px;
+
+}
+.containernameandate{
+    display: flex;
+    
+}
+
+.container-date{
+    margin-left: 20px;
+    color: lightgray;
+    font-size: 12px;
+    font-weight: 600;
+    
+}
+.container-reply:hover{
+    color: blue;
+    font-weight: 600;
+    cursor: pointer;
+    
+}
